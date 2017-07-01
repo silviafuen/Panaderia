@@ -14,14 +14,20 @@ nav .brand-logo {
 p {
   line-height: 2rem;
 }
-
+.navbar-material .nav-wrapper .brand-logo img {
+    height: 1em;
+}
 
 .button-collapse {
   color: #26a69a;
 }
 
+.img1 {
+  opacity: 0.80;
+}
+
 .parallax-container {
-  min-height: 600px;
+  min-height: 550px;
   line-height: 0;
   height: auto;
   color: rgba(255,255,255,.9);
