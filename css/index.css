@@ -1,0 +1,38 @@
+body, html {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 100%;
+    height: 100%;
+
+}
+
+h2 {
+  color: #fefefa;
+  font-family: 'Merriweather', serif;
+  font-size: 300%;
+  text-shadow: 1px 1px 1px #757575;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("/Users/silviafuen/Desktop/Panaderia/assets/store-front.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding-top: 8%;
+}
+
+.logo {
+  width: 35%;
+  margin: 4%;
+}
+
+.btn-large {
+
+  width: 25%;
+}
