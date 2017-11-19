@@ -10,6 +10,32 @@ nav ul a,
 nav .brand-logo {
   color: #555;
 }
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 100%;
+}
+h1 {
+  font-family: 'Merriweather', serif;
+  font-size: 400%;
+  text-shadow: 1px 1px 1px #757575;
+}
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 300%;
+}
+h3 {
+  font-family: 'Merriweather', serif;
+  font-size: 200%;
+}
+h4 {
+  font-family: 'Merriweather', serif;
+  font-size: 100%;
+}
+.flow-text {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 150%;
+}
+
 
 p {
   line-height: 2rem;
@@ -61,4 +87,8 @@ p {
 
 footer.page-footer {
   margin: 0;
+}
+
+.welcome {
+  height: 100%;
 }
